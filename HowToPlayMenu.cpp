@@ -5,10 +5,10 @@
 const std::string HowToPlayTitle = std::string("How To Play:");
 
 const std::string HowToPlayTexts[]{
-	"- Use the A and D keys to move the ball forward or backwarrds",
-	"- Use the space botton to jump",
+	"- Use the A and D keys to move the ball forward or backwards",
+	"- Use the space button to jump",
 	"- to restart the game press the R button",
-	"- Youre goal is to touch the finish brick"
+	"- Your goal is to touch the finish brick"
 };
 
 HowToPlayMenu::HowToPlayMenu() {

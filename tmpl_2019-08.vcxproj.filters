@@ -60,4 +60,7 @@
       <Filter>template code</Filter>
     </Text>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
+  </ItemGroup>
 </Project>
